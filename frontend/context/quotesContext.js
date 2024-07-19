@@ -89,6 +89,7 @@ export const MyProvider = (props) => {
         editQuoteAuthenticity,
         setHighlightedQuote,
         toggleVisibility,
+        createQuote,
         ...state
     }
 
